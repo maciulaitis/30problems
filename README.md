@@ -1,5 +1,14 @@
 # 30problems
 
+VERY good sources!:
+* https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
+* https://www.kaggle.com/m2skills/datasets-and-tutorial-kernels-for-beginners
+* https://www.kaggle.com/ezeeetm/titanic-hello-world-random-forest/edit (<solves titanic several different ways)
+* https://github.com/python-engineer/MLfromscratch
+* https://www.dataquest.io/blog/top-10-machine-learning-algorithms-for-beginners/
+* https://explained.ai/
+* https://mlbook.explained.ai/
+
 **Some cool problems
 https://mlcourse.ai/assignments
 https://www.kaggle.com/m2skills/datasets-and-tutorial-kernels-for-beginners
@@ -16,6 +25,9 @@ https://www.kaggle.com/m2skills/datasets-and-tutorial-kernels-for-beginners
 * https://youtu.be/kzt3-FHdAeM?t=2m17s
 
 **resources we can borrow ideas from**
+* https://www.kaggle.com/learn/overview
+* https://philippmuens.com/gradient-descent-from-scratch/
+* https://victorzhou.com/blog/intro-to-neural-networks/
 * https://theappsolutions.com/blog/development/machine-learning-algorithm-types/
 * https://techcrunch.com/2018/04/05/cometml-wants-to-do-for-machine-learning-what-github-did-for-code/
 * https://www.reddit.com/r/learnmachinelearning/comments/89fndb/machine_learning_is_hard_how_do_you_guys_do_it/
